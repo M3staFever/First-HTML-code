@@ -1,0 +1,37 @@
+
+.titulo {
+	font-size: 50px;
+	color: black;
+	font-family: verdana;
+	text-align: center;
+}
+p {
+	font-size: 25px;
+	color: grey;
+	font-family: verdana;
+	text-align: center;
+}
+	
+
+table {
+	height: 50%;
+	left: 10%;
+	margin: 30px auto;
+	overflow-y:scroll;
+	position: static;
+	width: 50%;
+	font-family: times;
+	text-align: center;
+	font-weight: 999;
+}
+tr {
+	background-color:#ff6666;
+	color: black;
+
+}
+.small{
+	font-size:12px;
+}
+.grey{
+	color: grey;
+}
